@@ -16,8 +16,7 @@
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=Techmetascore&&show_icons=true&title_color=blue&icon_color=blue&text_color=black&bg_color=white&count_private=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Techmetascore&layout=compact&langs_count=5)
 
 ### Streak:-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Techmetascore&theme=earth&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=techmetascore&theme=dark)](https://git.io/streak-stats)
 
 
 <!--
